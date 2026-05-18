@@ -1,7 +1,6 @@
 # MIMIC-IV Sepsis Outcomes Analysis
 
 ## Overview
-Brief 3–4 sentence summary: what you did, why it matters, what you found. 
 Write this last once you have results. Example:
 
 > This project investigates whether time-to-antibiotic administration predicts 
